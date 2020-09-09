@@ -12,7 +12,6 @@
             "homepage": "https://indybytes.com",
             "role": "FullStack Developer"
         }
-    ],
-    "minimum-stability": "stable",    
+    ],    
     "require": {}
 }
