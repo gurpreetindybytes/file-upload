@@ -1,0 +1,16 @@
+{
+    "name": "coding-ninja/file-upload",
+    "type": "library",
+    "description": "This package will help to upload file with some simple steps",
+    "keywords": ["upload","php file upload","file upload"],
+    "homepage": "https://indybytes.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gurpreet Singh",
+            "email": "gurpreet.indybytes@gmail.com",
+            "homepage": "https://indybytes.com",
+            "role": "FullStack Developer"
+        }
+    ],
+}
